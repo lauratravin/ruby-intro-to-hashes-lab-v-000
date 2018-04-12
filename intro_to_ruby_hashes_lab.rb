@@ -35,6 +35,7 @@ def monopoly_with_third_tier
 	 monopoly[:railroads][:rent_in_dollars][:four_pieces_owned] = 200
 
    monopoly[:railroads][:names][:reading_railroad] = {}
+	 monopoly[:railroads][:names][:pennsylvania_railroad] = {}
 
 	monopoly
 
